@@ -161,7 +161,7 @@ h5{
     align-items: center;
 }
 
-.shop-card{
+.menu-card{
     width: calc(100% / 3 - 30px );
     align-items: center;
     justify-content: center;
